@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PhoniaTask.props" />
+</Project>
