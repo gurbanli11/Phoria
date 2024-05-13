@@ -12,7 +12,7 @@ namespace PhoniaTask.Areas.Admin.Controllers
         public async Task <IActionResult> Index()
         {
            var data = await _context.Sliders
-                .Where(x=>!x.IsDeleted)
+                //.Where(x=>!x.IsDeleted)
                 .Select(s=> new GetSliderVM
             {
                 Discount = s.Discount,

@@ -9,7 +9,10 @@ namespace PhoniaTask
         {
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddControllersWithViews();
-            builder.Services.AddDbContext<PhoniaContext>();
+            builder.Services.AddDbContext<PhoniaContext>(opt=>
+            {
+                opt.UseSqlServer(builder.Configuration.GetConnectionString("MSSql"));
+            });
             var app = builder.Build();
 
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eCoOLJAWlbHUvTjJuibC810qpxILqqUAEpq7w2OvJNE5ujnFKKolETjU8oK4Go+Nd3C7TIHPkfYD+DStNCsCcg==",
+  "dgSpecHash": "cH+OpoXyQpQOD1DBxbqV8USVWG/vzltP/0dojYOrhYd4EDUTilwU7nywtKsGNTu5P6Ibp44BQf80kzQ4kO7J7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\orkha\\OneDrive\\Masaüstü\\PhoniaSQL-master\\PhoniaTask\\PhoniaTask.csproj",
+  "projectFilePath": "C:\\Users\\orkha\\OneDrive\\Masaüstü\\Phoria-master\\PhoniaTask\\PhoniaTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\orkha\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\orkha\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

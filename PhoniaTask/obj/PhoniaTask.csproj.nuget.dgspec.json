@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\orkha\\OneDrive\\Masaüstü\\PhoniaSQL-master\\PhoniaTask\\PhoniaTask.csproj": {}
+    "C:\\Users\\orkha\\OneDrive\\Masaüstü\\Phoria-master\\PhoniaTask\\PhoniaTask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\orkha\\OneDrive\\Masaüstü\\PhoniaSQL-master\\PhoniaTask\\PhoniaTask.csproj": {
+    "C:\\Users\\orkha\\OneDrive\\Masaüstü\\Phoria-master\\PhoniaTask\\PhoniaTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\orkha\\OneDrive\\Masaüstü\\PhoniaSQL-master\\PhoniaTask\\PhoniaTask.csproj",
+        "projectUniqueName": "C:\\Users\\orkha\\OneDrive\\Masaüstü\\Phoria-master\\PhoniaTask\\PhoniaTask.csproj",
         "projectName": "PhoniaTask",
-        "projectPath": "C:\\Users\\orkha\\OneDrive\\Masaüstü\\PhoniaSQL-master\\PhoniaTask\\PhoniaTask.csproj",
+        "projectPath": "C:\\Users\\orkha\\OneDrive\\Masaüstü\\Phoria-master\\PhoniaTask\\PhoniaTask.csproj",
         "packagesPath": "C:\\Users\\orkha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\orkha\\OneDrive\\Masaüstü\\PhoniaSQL-master\\PhoniaTask\\obj\\",
+        "outputPath": "C:\\Users\\orkha\\OneDrive\\Masaüstü\\Phoria-master\\PhoniaTask\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\orkha\\AppData\\Roaming\\NuGet\\NuGet.Config",

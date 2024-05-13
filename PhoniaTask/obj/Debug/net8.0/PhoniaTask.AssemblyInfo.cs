@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhoniaTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ec02c577937e1ea1ac412f0baf42325d75d95aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhoniaTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhoniaTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

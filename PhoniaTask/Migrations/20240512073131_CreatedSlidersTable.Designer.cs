@@ -12,7 +12,7 @@ using PhoniaTask.DAL;
 
 namespace PhoniaTask.Migrations
 {
-    [DbContext(typeof(PhoniaTaskContext))]
+    [DbContext(typeof(PhoniaContext))]
     [Migration("20240512073131_CreatedSlidersTable")]
     partial class CreatedSlidersTable
     {
