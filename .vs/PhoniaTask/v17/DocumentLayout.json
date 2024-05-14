@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7629CBE8-B048-401A-8D0C-933424C5DB71}|PhoniaTask\\PhoniaTask.csproj|c:\\users\\orkha\\onedrive\\masa\u00FCst\u00FC\\phoria-master\\phoniatask\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7629CBE8-B048-401A-8D0C-933424C5DB71}|PhoniaTask\\PhoniaTask.csproj|C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\phoniatask\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7629CBE8-B048-401A-8D0C-933424C5DB71}|PhoniaTask\\PhoniaTask.csproj|solutionrelative:phoniatask\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7629CBE8-B048-401A-8D0C-933424C5DB71}|PhoniaTask\\PhoniaTask.csproj|c:\\users\\orkha\\onedrive\\masa\u00FCst\u00FC\\phoria-master\\phoniatask\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7629CBE8-B048-401A-8D0C-933424C5DB71}|PhoniaTask\\PhoniaTask.csproj|solutionrelative:phoniatask\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7629CBE8-B048-401A-8D0C-933424C5DB71}|PhoniaTask\\PhoniaTask.csproj|C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\phoniatask\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7629CBE8-B048-401A-8D0C-933424C5DB71}|PhoniaTask\\PhoniaTask.csproj|solutionrelative:phoniatask\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7629CBE8-B048-401A-8D0C-933424C5DB71}|PhoniaTask\\PhoniaTask.csproj|c:\\users\\orkha\\onedrive\\masa\u00FCst\u00FC\\phoria-master\\phoniatask\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7629CBE8-B048-401A-8D0C-933424C5DB71}|PhoniaTask\\PhoniaTask.csproj|solutionrelative:phoniatask\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7629CBE8-B048-401A-8D0C-933424C5DB71}|PhoniaTask\\PhoniaTask.csproj|C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\phoniatask\\dal\\phoniacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7629CBE8-B048-401A-8D0C-933424C5DB71}|PhoniaTask\\PhoniaTask.csproj|solutionrelative:phoniatask\\dal\\phoniacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7629CBE8-B048-401A-8D0C-933424C5DB71}|PhoniaTask\\PhoniaTask.csproj|c:\\users\\orkha\\onedrive\\masa\u00FCst\u00FC\\phoria-master\\phoniatask\\viewmodels\\products\\getproductadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7629CBE8-B048-401A-8D0C-933424C5DB71}|PhoniaTask\\PhoniaTask.csproj|c:\\users\\orkha\\onedrive\\masa\u00FCst\u00FC\\phoria-master\\phoniatask\\extentions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7629CBE8-B048-401A-8D0C-933424C5DB71}|PhoniaTask\\PhoniaTask.csproj|solutionrelative:phoniatask\\extentions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7629CBE8-B048-401A-8D0C-933424C5DB71}|PhoniaTask\\PhoniaTask.csproj|C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\phoniatask\\viewmodels\\products\\getproductadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7629CBE8-B048-401A-8D0C-933424C5DB71}|PhoniaTask\\PhoniaTask.csproj|solutionrelative:phoniatask\\viewmodels\\products\\getproductadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7629CBE8-B048-401A-8D0C-933424C5DB71}|PhoniaTask\\PhoniaTask.csproj|c:\\users\\orkha\\onedrive\\masa\u00FCst\u00FC\\phoria-master\\phoniatask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7629CBE8-B048-401A-8D0C-933424C5DB71}|PhoniaTask\\PhoniaTask.csproj|solutionrelative:phoniatask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7629CBE8-B048-401A-8D0C-933424C5DB71}|PhoniaTask\\PhoniaTask.csproj|C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\phoniatask\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7629CBE8-B048-401A-8D0C-933424C5DB71}|PhoniaTask\\PhoniaTask.csproj|solutionrelative:phoniatask\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7629CBE8-B048-401A-8D0C-933424C5DB71}|PhoniaTask\\PhoniaTask.csproj|c:\\users\\orkha\\onedrive\\masa\u00FCst\u00FC\\phoria-master\\phoniatask\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7629CBE8-B048-401A-8D0C-933424C5DB71}|PhoniaTask\\PhoniaTask.csproj|C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\phoniatask\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7629CBE8-B048-401A-8D0C-933424C5DB71}|PhoniaTask\\PhoniaTask.csproj|solutionrelative:phoniatask\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7629CBE8-B048-401A-8D0C-933424C5DB71}|PhoniaTask\\PhoniaTask.csproj|C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\phoniatask\\migrations\\phoniacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7629CBE8-B048-401A-8D0C-933424C5DB71}|PhoniaTask\\PhoniaTask.csproj|solutionrelative:phoniatask\\migrations\\phoniacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "FileExtension.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\PhoniaTask\\Extentions\\FileExtension.cs",
+              "RelativeDocumentMoniker": "PhoniaTask\\Extentions\\FileExtension.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\PhoniaTask\\Extentions\\FileExtension.cs",
+              "RelativeToolTip": "PhoniaTask\\Extentions\\FileExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:01:24.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\PhoniaTask\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "PhoniaTask\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\PhoniaTask\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "PhoniaTask\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T12:24:43.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhoniaContext.cs",
+              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\PhoniaTask\\DAL\\PhoniaContext.cs",
+              "RelativeDocumentMoniker": "PhoniaTask\\DAL\\PhoniaContext.cs",
+              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\PhoniaTask\\DAL\\PhoniaContext.cs",
+              "RelativeToolTip": "PhoniaTask\\DAL\\PhoniaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T05:23:44.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\PhoniaTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "PhoniaTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -50,60 +93,31 @@
               "RelativeToolTip": "PhoniaTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T18:02:20.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T18:02:20.009Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\PhoniaTask\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "PhoniaTask\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\PhoniaTask\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "PhoniaTask\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T17:55:08.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "GetProductAdminVM.cs",
               "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\PhoniaTask\\ViewModels\\Products\\GetProductAdminVM.cs",
               "RelativeDocumentMoniker": "PhoniaTask\\ViewModels\\Products\\GetProductAdminVM.cs",
               "ToolTip": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\PhoniaTask\\ViewModels\\Products\\GetProductAdminVM.cs",
               "RelativeToolTip": "PhoniaTask\\ViewModels\\Products\\GetProductAdminVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T17:47:27.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T17:47:27.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\PhoniaTask\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "PhoniaTask\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "ToolTip": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\PhoniaTask\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "PhoniaTask\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAEIAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-13T17:44:28.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\PhoniaTask\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "PhoniaTask\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\PhoniaTask\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "PhoniaTask\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T17:37:36.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T17:44:28.184Z"
             },
             {
               "$type": "Document",
@@ -113,26 +127,10 @@
               "RelativeDocumentMoniker": "PhoniaTask\\Areas\\Admin\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\PhoniaTask\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeToolTip": "PhoniaTask\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T17:38:59.089Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PhoniaContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\PhoniaTask\\Migrations\\PhoniaContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "PhoniaTask\\Migrations\\PhoniaContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\orkha\\OneDrive\\Masa\u00FCst\u00FC\\Phoria-master\\PhoniaTask\\Migrations\\PhoniaContextModelSnapshot.cs",
-              "RelativeToolTip": "PhoniaTask\\Migrations\\PhoniaContextModelSnapshot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T04:32:50.463Z"
             }
           ]
         }
